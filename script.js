@@ -58,6 +58,7 @@
   ========================= */
   const imageFor = { 
     "SPINĘ": "https://ik.imagekit.io/plkm5ok7p/IMG_3878.JPEG?updatedAt=1765126341918",
+    "NOIR": "https://ik.imagekit.io/dkdlgynlu/IMG_0233.JPEG",
     "BALDWIN 4": "https://ik.imagekit.io/plkm5ok7p/IMG_3199%20(1).JPEG?updatedAt=1765126339659",
     "MURF's Take Action Tee": "https://ik.imagekit.io/plkm5ok7p/IMG_3036%20(1).JPEG?updatedAt=1765126343812",
     "Realize the value": "https://ik.imagekit.io/plkm5ok7p/IMG_3202%20(1).JPEG?updatedAt=1765126339679",
@@ -87,7 +88,8 @@
   ];
 
   const productData = { 
-    "SPINĘ": { "GSM 350": sizesFor("42,000 MMK") }, 
+    "SPINĘ": { "GSM 350": sizesFor("42,000 MMK") },
+    "NOIR": { "GSM 240": sizesFor("54,000 MMK") },
     "BALDWIN 4": { "GSM 350": sizesFor("42,000 MMK") }, 
     "MURF's Take Action Tee": { "GSM 350": sizesFor("42,000 MMK") },
     "Realize the value": { "GSM 350": sizesFor("42,000 MMK") },
